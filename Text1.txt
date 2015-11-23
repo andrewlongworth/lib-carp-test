@@ -1,3 +1,4 @@
 Text I typed
+another line
 I typed some more text
 A third line of text
